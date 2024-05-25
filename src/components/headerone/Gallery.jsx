@@ -90,8 +90,69 @@ function Gallery() {
     <div className="container">
       <div className="row justify-content-center">
         <h2 className='m-4'>Bet on your favorite sports and teams with the best odds in the industry. Join now and get a welcome bonus!</h2>
+        <div class="slider">
+            <div class="slide-track">
+                <div class="slide-big">
+                    <img src="assets/img/gallery/slider1.jpg"  class="img-responsive" alt="" />
+                </div>
+                <div class="slide-big">
+                    <img src="assets/img/gallery/slider2.jpg" class="img-responsive" alt="" />
+                </div>
+                <div class="slide-big">
+                    <img src="assets/img/gallery/slider3.jpg"  class="img-responsive" alt="" />
+                </div>
+                <div class="slide-big">
+                    <img src="assets/img/gallery/slider4.jpg"  class="img-responsive" alt="" />
+                </div>
+                <div class="slide-big">
+                    <img src="assets/img/gallery/slider5.jpg"  class="img-responsive" alt="" />
+                </div>
+                <div class="slide-big">
+                    <img src="assets/img/gallery/slider1.jpg"  class="img-responsive" alt="" />
+                </div>
+                <div class="slide-big">
+                    <img src="assets/img/gallery/slider2.jpg" class="img-responsive" alt="" />
+                </div>
+                <div class="slide-big">
+                    <img src="assets/img/gallery/slider3.jpg"  class="img-responsive" alt="" />
+                </div>
+                <div class="slide-big">
+                    <img src="assets/img/gallery/slider4.jpg"  class="img-responsive" alt="" />
+                </div>
+                <div class="slide-big">
+                    <img src="assets/img/gallery/slider5.jpg"  class="img-responsive" alt="" />
+                </div>
+                <div class="slide-big">
+                    <img src="assets/img/gallery/slider1.jpg"  class="img-responsive" alt="" />
+                </div>
+                <div class="slide-big">
+                    <img src="assets/img/gallery/slider2.jpg" class="img-responsive" alt="" />
+                </div>
+                <div class="slide-big">
+                    <img src="assets/img/gallery/slider3.jpg"  class="img-responsive" alt="" />
+                </div>
+                <div class="slide-big">
+                    <img src="assets/img/gallery/slider4.jpg"  class="img-responsive" alt="" />
+                </div>
+                <div class="slide-big">
+                    <img src="assets/img/gallery/slider5.jpg"  class="img-responsive" alt="" />
+                </div>
+                {/* <div class="slide">
+                    <img src="assets/img/team/16.jpg"  class="img-responsive" alt="" />
+                </div>
+                <div class="slide">
+                    <img src="assets/img/team/17.jpg"  class="img-responsive" alt="" />
+                </div> */}
+                
+                
+                
+                
+
+
+            </div>
+            </div>
         <div className="col-xl-8">
-          <Slider className="gallery-active" {...settings}>
+          {/* <Slider className="gallery-active" {...settings}>
             <div className="gallery-item">
               <img src="assets/img/gallery/slider1.jpg" alt="" />
             </div>
@@ -107,7 +168,8 @@ function Gallery() {
             <div className="gallery-item">
               <img src="assets/img/gallery/slider5.jpg" alt="" />
             </div>
-          </Slider>
+          </Slider> */}
+
         </div>
       </div>
       <div className="slider-nav" />

@@ -82,7 +82,7 @@ function Team() {
             </div>
           </div>
           </div>
-          </section>
+          
           <div class="slider">
             <div class="slide-track">
                 <div class="slide">
@@ -177,6 +177,7 @@ function Team() {
             </div>
         
         </div>
+        </section>
       </>
   )
 }

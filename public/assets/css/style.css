@@ -370,6 +370,29 @@ label {
     cursor: pointer;
 }
 
+.tele-icon-div {
+    position: fixed;
+    bottom: 10%;
+    left: 50px;
+    /* font-size: 56px; */
+    z-index: 1000000;
+    text-align: center;
+}
+
+.tele-icon-div .label {
+    position: fixed;
+    bottom: 4%;
+    left: 2%;
+    font-size: 56px;
+    z-index: 1000000;
+    color: #00d5ff;
+    background-color: #fff;
+    text-align: center;
+    border-radius: 10px;
+    padding: 5px;
+    font-size: 15px;
+}
+
 
 /* scrollUp */
 
@@ -2229,6 +2252,13 @@ label {
     width: 100%;
 }
 
+.team-area {
+    background-image: url(../img/bg/card1.png);
+    background-position: bottom center;
+    background-size: cover;
+    /* padding: 110px 0 87px; */
+}
+
 .team-area-two {
     background-image: url(../img/bg/team_bg.jpg);
     background-position: bottom center;
@@ -2620,6 +2650,9 @@ label {
 .gallery-area {
     position: relative;
     overflow: hidden;
+    background-image: url('../img/bg/bg3.png');
+    background-position: bottom center;
+    background-size: cover;
 }
 
 .gallery-active .slick-list {
@@ -2697,7 +2730,7 @@ label {
 .slider {
     /* background: white; */
     /* box-shadow: 0 10px 20px -5px rgba(0, 0, 0, 0.125); */
-    height: 250px;
+    /* height: 250px; */
     margin: 20px;
     margin-bottom: 40px;
     overflow: hidden;
@@ -2739,6 +2772,21 @@ label {
     width: 300px;
     /* Fixed width */
     height: 200px;
+    /* Fixed height */
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px
+}
+
+.slider .slide-big {
+    /* height: 100px; */
+    /* width: 250px; */
+    /* margin: 8px; */
+    width: 600px;
+    /* Fixed width */
+    height: 500px;
     /* Fixed height */
     overflow: hidden;
     display: flex;
@@ -2932,7 +2980,7 @@ label {
 
 .live-stream-wrap {
     background: rgb(31 32 41 / 72%);
-    padding: 100px 0px 50px 64px;
+    padding: 0px 0px 50px 64px;
     border: 1px solid #43484e;
     position: relative;
     margin-top: 285px;
@@ -3989,6 +4037,12 @@ label {
 
 
 /* 24. Shop */
+
+.shop-area {
+    background-image: url(../img/bg/bg1.jpg);
+    background-position: center;
+    background-size: cover;
+}
 
 .shop-thumb {
     position: relative;

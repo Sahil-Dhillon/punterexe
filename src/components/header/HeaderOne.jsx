@@ -194,7 +194,6 @@ if ($('.scroll-to-target').length) {
                         <a href="https://t.me/Punterexe" className='mx-4 px-4'>Inplay</a>
                         
             </h4>
-                
                 </marquee> 
             </div>
           </div>
