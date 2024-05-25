@@ -18,7 +18,7 @@ function Banner() {
           </div>
         </div>
       {/* <video autoPlay muted loop playsInline id="hero-video" src='assets/videos/car_moving.mp4'/> */}
-      <video autoPlay muted loop playsInline id="hero-video" src='assets/videos/intro_semi_lite.mp4'/>
+      <video autoPlay muted loop playsInline id="hero-video" src='assets/videos/intro_final.mp4'/>
             {/* <source src="assets/videos/car_moving.mp4" type="video/mp4"/> */}
         
       </div>

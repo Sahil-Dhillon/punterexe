@@ -393,6 +393,17 @@ label {
     font-size: 15px;
 }
 
+.header-slider img {
+    width: 30px;
+    margin-bottom: 5px;
+}
+
+.header-slider a {
+    /* width: 30px; */
+    margin-bottom: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
 
 /* scrollUp */
 

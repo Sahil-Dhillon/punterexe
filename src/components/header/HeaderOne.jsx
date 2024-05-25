@@ -49,19 +49,20 @@ function HeaderOne() {
 /*=============================================
 	=     Menu sticky & Scroll to top      =
 =============================================*/
-$(window).on('scroll', function () {
-	var scroll = $(window).scrollTop();
-	if (scroll < 245) {
-		$("#sticky-header").removeClass("sticky-menu");
-		$('.scroll-to-target').removeClass('open');
-		$("#header-top-fixed").removeClass("header-fixed-position");
+// $(window).on('scroll', function () {
+	// var scroll = $(window).scrollTop();
+	// if (scroll < 245) {
+	// 	$("#sticky-header").removeClass("sticky-menu");
+	// 	$('.scroll-to-target').removeClass('open');
+	// 	$("#header-top-fixed").removeClass("header-fixed-position");
 
-	} else {
-		$("#sticky-header").addClass("sticky-menu");
-		$('.scroll-to-target').addClass('open');
-		$("#header-top-fixed").addClass("header-fixed-position");
-	}
-});
+	// } 
+  // else {
+	// 	$("#sticky-header").addClass("sticky-menu");
+	// 	$('.scroll-to-target').addClass('open');
+	// 	$("#header-top-fixed").addClass("header-fixed-position");
+	// }
+// });
 
 
 /*=============================================
@@ -86,18 +87,18 @@ if ($('.scroll-to-target').length) {
   return (
           
           <header>
-          <div id="header-top-fixed" />
-          <div id="sticky-header" className="menu-area main-header my-0 pb-0">
+          <div id="" />
+          <div id="" className="menu-area main-header my-0 p-0">
 
             <div className="container custom-container my-0 py-0">
               <div className="row ">
                 <div className="col-12 ">
-                  <div className="mobile-nav-toggler"><i className="fas fa-bars" /></div>
                   <div className="menu-wrap main-menu">
                     <nav className="menu-nav show">
                       <div className="nav-logo my-0 py-0">
                         <a href="https://t.me/Punterexe"><img className='' src="assets/img/logo/logo_wbg.png" alt="" /></a>
                       </div>
+                  <div className="mobile-nav-toggler"><i className="fas fa-bars" /></div>
                       <div className="navbar-wrap push-menu d-none d-lg-flex ">
                         <ul className="navigation">
                           <li className=" menu-item-has-children"><a href="/#">Home</a></li>
@@ -181,17 +182,36 @@ if ($('.scroll-to-target').length) {
             </div>
             <div className='my-0 py-0'>
               <marquee>
-              <h4 className='my-0 py-0'>
-              <a href="https://t.me/Punterexe" className='mx-4 px-4'>Cricket</a>
-                        <a href="https://t.me/Punterexe"className='mx-4 px-4'>Football</a>
-                        <a href="https://t.me/Punterexe" className='mx-4 px-4'>Casino</a>
-                        <a href="https://t.me/Punterexe" className='mx-4 px-4'>Games</a>
-                        <a href="https://t.me/Punterexe" className='mx-4 px-4'>Horse Riding</a>
-                        <a href="https://t.me/Punterexe" className='mx-4 px-4'>Tennis</a>
-                        <a href="https://t.me/Punterexe" className='mx-4 px-4'>Betting Games</a>
-                        <a href="https://t.me/Punterexe" className='mx-4 px-4'>Dice Games</a>
-                        <a href="https://t.me/Punterexe" className='mx-4 px-4'>Card Games</a>
+              <h4 className='my-0 py-0 d-flex'>
+                        <div className='d-flex flex-column align-items-center header-slider'>
+                        <img src='assets/img/slider/play.png' className=''/>
                         <a href="https://t.me/Punterexe" className='mx-4 px-4'>Inplay</a>
+                        </div>
+                        <div className='d-flex flex-column align-items-center header-slider'>
+                        <img src='assets/img/slider/cricket.png' className=''/>
+                        <a href="https://t.me/Punterexe" className='mx-4 px-4'>Cricket</a>
+                        </div>
+                        <div className='d-flex flex-column align-items-center header-slider'>
+                        <img src='assets/img/slider/tennis.png' className=''/>
+                        <a href="https://t.me/Punterexe" className='mx-4 px-4'>Tennis</a>
+                        </div>
+                        <div className='d-flex flex-column align-items-center header-slider'>
+                        <img src='assets/img/slider/football.png' className=''/>
+                        <a href="https://t.me/Punterexe" className='mx-4 px-4'>Football</a>
+                        </div>
+                        <div className='d-flex flex-column align-items-center header-slider'>
+                        <img src='assets/img/slider/slot-machine.png' className=''/>
+                        <a href="https://t.me/Punterexe" className='mx-4 px-4'>Casino</a>
+                        </div>
+                        <div className='d-flex flex-column align-items-center header-slider'>
+                        <img src='assets/img/slider/club-card.png' className=''/>
+                        <a href="https://t.me/Punterexe" className='mx-4 px-4'>Card Games</a>
+                        </div>
+                        <div className='d-flex flex-column align-items-center header-slider'>
+                        <img src='assets/img/slider/equestrian.png' className=''/>
+                        <a href="https://t.me/Punterexe" className='mx-4 px-4'>Horse Riding</a>
+                        </div>
+                        
                         
             </h4>
                 </marquee> 
