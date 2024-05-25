@@ -187,6 +187,11 @@ if ($('.scroll-to-target').length) {
                         <a href="https://t.me/Punterexe" className='mx-4 px-4'>Casino</a>
                         <a href="https://t.me/Punterexe" className='mx-4 px-4'>Games</a>
                         <a href="https://t.me/Punterexe" className='mx-4 px-4'>Horse Riding</a>
+                        <a href="https://t.me/Punterexe" className='mx-4 px-4'>Tennis</a>
+                        <a href="https://t.me/Punterexe" className='mx-4 px-4'>Betting Games</a>
+                        <a href="https://t.me/Punterexe" className='mx-4 px-4'>Dice Games</a>
+                        <a href="https://t.me/Punterexe" className='mx-4 px-4'>Card Games</a>
+                        <a href="https://t.me/Punterexe" className='mx-4 px-4'>Inplay</a>
                         
             </h4>
                 
