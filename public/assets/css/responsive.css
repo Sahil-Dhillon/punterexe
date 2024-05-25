@@ -79,12 +79,12 @@
         margin: 25px 25px 70px;
     }
     .liveVideo {
-        width: 470px;
-        height: 470px;
+        width: 300px;
+        height: 300px;
     }
     .live-video-item .video::before {
-        width: 526px;
-        height: 526px;
+        width: 350px;
+        height: 350px;
     }
     .shop-date {
         top: 11px;
@@ -247,7 +247,7 @@
         font-size: 55px;
     }
     .single-thumb {
-        width: calc(100% / 6);
+        width: calc(100% / 4);
         margin-bottom: 30px;
     }
     .live-video-active {
@@ -835,7 +835,7 @@
         margin-bottom: 15px;
     }
     .banner-content .title {
-        font-size: 40px;
+        font-size: 30px;
     }
     .just-gamer-img .main-img {
         max-width: 100%;
@@ -895,8 +895,8 @@
         right: 35px;
     }
     .liveVideo {
-        width: 320px;
-        height: 320px;
+        width: 280px;
+        height: 280px;
     }
     .banner-bg {
         height: 520px;
@@ -1324,7 +1324,7 @@
         width: calc(100% / 2);
     }
     .banner-content .title {
-        font-size: 30px;
+        font-size: 20px;
     }
     .shop-date {
         top: 6px;
@@ -1363,6 +1363,9 @@
     .squad-details-social .social-list {
         justify-content: center;
     }
+    .nav-logo img {
+        width: 100px
+    }
 }
 
 
@@ -1390,8 +1393,8 @@
         width: calc(100% / 4);
     }
     .liveVideo {
-        width: 380px;
-        height: 380px;
+        width: 320px;
+        height: 320px;
     }
     .shop-date {
         top: 10px;
@@ -1401,7 +1404,7 @@
         padding: 50px 60px;
     }
     .banner-content .title {
-        font-size: 40px;
+        font-size: 30px;
     }
     .just-gamer-img [class*="shape-2"] {
         display: block;

@@ -17,22 +17,22 @@ function ShopArea() {
                     <h2 class="section-heading text-uppercase text-center">Withdrawls</h2>
                     {/* <h3 class="section-subheading text-dark text-center fs-5 my-3">Some of our esteemed clients in the showcase.</h3> */}
                     {/* <hr class="m-3 w-75 m-auto"/> */}
-                    <div class="col-md-2 col-sm-6 my-3">
+                    <div class="col-md-2 col-sm-4 col-6 my-3">
                         <a href="https://t.me/Punterexe"><img class="img-fluid d-block mx-auto" src="assets/img/withdraw/1.jpg" alt="..." /></a>
                     </div>
-                    <div class="col-md-2 col-sm-6 my-3">
+                    <div class="col-md-2 col-sm-4 col-6 my-3">
                         <a href="https://t.me/Punterexe"><img class="img-fluid d-block mx-auto" src="assets/img/withdraw/2.jpg" alt="..." /></a>
                     </div>
-                    <div class="col-md-2 col-sm-6 my-3">
+                    <div class="col-md-2 col-sm-4 col-6 my-3">
                         <a href="https://t.me/Punterexe"><img class="img-fluid d-block mx-auto" src="assets/img/withdraw/3.jpg" alt="..." /></a>
                     </div>
-                    <div class="col-md-2 col-sm-6 my-3">
+                    <div class="col-md-2 col-sm-4 col-6 my-3">
                         <a href="https://t.me/Punterexe"><img class="img-fluid d-block mx-auto" src="assets/img/withdraw/4.jpg" alt="..." /></a>
                     </div>
-                    <div class="col-md-2 col-sm-6 my-3">
+                    <div class="col-md-2 col-sm-4 col-6 my-3">
                         <a href="https://t.me/Punterexe"><img class="img-fluid d-block mx-auto" src="assets/img/withdraw/5.jpg" alt="..." /></a>
                     </div>
-                    <div class="col-md-2 col-sm-6 my-3">
+                    <div class="col-md-2 col-sm-4 col-6 my-3">
                         <a href="https://t.me/Punterexe"><img class="img-fluid d-block mx-auto" src="assets/img/withdraw/6.jpg" alt="..." /></a>
                     </div>
                 </div>
@@ -41,22 +41,22 @@ function ShopArea() {
                     <h2 class="section-heading text-uppercase text-center">Deposits</h2>
                     {/* <h3 class="section-subheading text-dark text-center fs-5 my-3">Some of our esteemed clients in the showcase.</h3> */}
                     {/* <hr class="m-3 w-75 m-auto"/> */}
-                    <div class="col-md-2 col-sm-6 my-3">
+                    <div class="col-md-2 col-sm-4 col-6 my-3">
                         <a href="https://t.me/Punterexe"><img class="img-fluid d-block mx-auto" src="assets/img/deposit/1.jpg" alt="..." /></a>
                     </div>
-                    <div class="col-md-2 col-sm-6 my-3">
+                    <div class="col-md-2 col-sm-4 col-6 my-3">
                         <a href="https://t.me/Punterexe"><img class="img-fluid d-block mx-auto" src="assets/img/deposit/2.jpg" alt="..." /></a>
                     </div>
-                    <div class="col-md-2 col-sm-6 my-3">
+                    <div class="col-md-2 col-sm-4 col-6 my-3">
                         <a href="https://t.me/Punterexe"><img class="img-fluid d-block mx-auto" src="assets/img/deposit/3.jpg" alt="..." /></a>
                     </div>
-                    <div class="col-md-2 col-sm-6 my-3">
+                    <div class="col-md-2 col-sm-4 col-6 my-3">
                         <a href="https://t.me/Punterexe"><img class="img-fluid d-block mx-auto" src="assets/img/deposit/4.jpg" alt="..." /></a>
                     </div>
-                    <div class="col-md-2 col-sm-6 my-3">
+                    <div class="col-md-2 col-sm-4 col-6 my-3">
                         <a href="https://t.me/Punterexe"><img class="img-fluid d-block mx-auto" src="assets/img/deposit/5.jpg" alt="..." /></a>
                     </div>
-                    <div class="col-md-2 col-sm-6 my-3">
+                    <div class="col-md-2 col-sm-4 col-6 my-3">
                         <a href="https://t.me/Punterexe"><img class="img-fluid d-block mx-auto" src="assets/img/deposit/6.jpg" alt="..." /></a>
                     </div>
                     
@@ -65,7 +65,7 @@ function ShopArea() {
           <div className="row justify-content-center">
             <div className="col-lg-8">
               <div className="section-title title-style-two text-center mb-70">
-                <h2 className="title">Take a look at our Masters.</h2>
+                <h2 className="title">Take a look at our Partners.</h2>
               </div>
             </div>
           </div>
@@ -75,28 +75,28 @@ function ShopArea() {
                     {/* <h2 class="section-heading text-uppercase text-center">Our Clients</h2> */}
                     {/* <h3 class="section-subheading text-dark text-center fs-5 my-3">Some of our esteemed clients in the showcase.</h3> */}
                     {/* <hr class="m-3 w-75 m-auto"/> */}
-                    <div class="col-md-3 col-sm-6 my-3">
+                    <div class="col-md-3 col-6 my-3">
                         <a href="https://t.me/Punterexe"><img class="img-fluid d-block mx-auto" src="assets/img/masters/8.jpg" alt="..." /></a>
                     </div>
-                    <div class="col-md-3 col-sm-6 my-3">
+                    <div class="col-md-3 col-6 my-3">
                         <a href="https://t.me/Punterexe"><img class="img-fluid d-block mx-auto" src="assets/img/masters/9.jpg" alt="..." /></a>
                     </div>
-                    <div class="col-md-3 col-sm-6 my-3">
+                    <div class="col-md-3 col-6 my-3">
                         <a href="https://t.me/Punterexe"><img class="img-fluid d-block mx-auto" src="assets/img/masters/3.jpg" alt="..." /></a>
                     </div>
-                    <div class="col-md-3 col-sm-6 my-3">
+                    <div class="col-md-3 col-6 my-3">
                         <a href="https://t.me/Punterexe"><img class="img-fluid d-block mx-auto" src="assets/img/masters/4.jpg" alt="..." /></a>
                     </div>
-                    <div class="col-md-3 col-sm-6 my-3">
+                    <div class="col-md-3 col-6 my-3">
                         <a href="https://t.me/Punterexe"><img class="img-fluid d-block mx-auto" src="assets/img/masters/5.jpg" alt="..." /></a>
                     </div>
-                    <div class="col-md-3 col-sm-6 my-3">
+                    <div class="col-md-3 col-6 my-3">
                         <a href="https://t.me/Punterexe"><img class="img-fluid d-block mx-auto" src="assets/img/masters/6.jpg" alt="..." /></a>
                     </div>
-                    <div class="col-md-3 col-sm-6 my-3">
+                    <div class="col-md-3 col-6 my-3">
                         <a href="https://t.me/Punterexe"><img class="img-fluid d-block mx-auto" src="assets/img/masters/2.jpg" alt="..." /></a>
                     </div>
-                    <div class="col-md-3 col-sm-6 my-3">
+                    <div class="col-md-3 col-6 my-3">
                         <a href="https://t.me/Punterexe"><img class="img-fluid d-block mx-auto" src="assets/img/masters/1.jpg" alt="..." /></a>
                     </div>
                     <h3 class="section-subheading text-muted text-center fs-5">and many more...</h3>

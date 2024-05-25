@@ -87,15 +87,15 @@ if ($('.scroll-to-target').length) {
           
           <header>
           <div id="header-top-fixed" />
-          <div id="sticky-header" className="menu-area main-header">
+          <div id="sticky-header" className="menu-area main-header my-0 pb-0">
 
-            <div className="container custom-container">
-              <div className="row">
-                <div className="col-12">
+            <div className="container custom-container my-0 py-0">
+              <div className="row ">
+                <div className="col-12 ">
                   <div className="mobile-nav-toggler"><i className="fas fa-bars" /></div>
                   <div className="menu-wrap main-menu">
                     <nav className="menu-nav show">
-                      <div className="nav-logo">
+                      <div className="nav-logo my-0 py-0">
                         <a href="https://t.me/Punterexe"><img className='' src="assets/img/logo/logo_wbg.png" alt="" /></a>
                       </div>
                       <div className="navbar-wrap push-menu d-none d-lg-flex ">
@@ -179,14 +179,14 @@ if ($('.scroll-to-target').length) {
             <div className="header-icon">
               <a href="https://t.me/Punterexe" className="menu-tigger"><img src="assets/img/icon/hader_icon.png" alt="" /></a>
             </div>
-            <div>
+            <div className='my-0 py-0'>
               <marquee>
-              <h4>
-              <a href="https://t.me/Punterexe" className='m-4 p-4'>Cricket</a>
-                        <a href="https://t.me/Punterexe"className='m-4 p-4'>Football</a>
-                        <a href="https://t.me/Punterexe" className='m-4 p-4'>Casino</a>
-                        <a href="https://t.me/Punterexe" className='m-4 p-4'>Games</a>
-                        <a href="https://t.me/Punterexe" className='m-4 p-4'>Horse Riding</a>
+              <h4 className='my-0 py-0'>
+              <a href="https://t.me/Punterexe" className='mx-4 px-4'>Cricket</a>
+                        <a href="https://t.me/Punterexe"className='mx-4 px-4'>Football</a>
+                        <a href="https://t.me/Punterexe" className='mx-4 px-4'>Casino</a>
+                        <a href="https://t.me/Punterexe" className='mx-4 px-4'>Games</a>
+                        <a href="https://t.me/Punterexe" className='mx-4 px-4'>Horse Riding</a>
                         
             </h4>
                 
@@ -194,7 +194,7 @@ if ($('.scroll-to-target').length) {
             </div>
           </div>
           {/* header-search */}
-          <div className="search-popup-wrap" tabIndex={-1} role="dialog" aria-hidden="true">
+          {/* <div className="search-popup-wrap" tabIndex={-1} role="dialog" aria-hidden="true">
             <div className="search-close">
               <span><i className="fas fa-times" /></span>
             </div>
@@ -213,7 +213,7 @@ if ($('.scroll-to-target').length) {
                 </div>
               </div>
             </div>
-          </div>
+          </div> */}
           {/* header-search-end */}
           {/* offCanvas-menu */}
           <div className="extra-info">

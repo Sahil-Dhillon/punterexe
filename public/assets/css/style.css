@@ -870,7 +870,7 @@ label {
 
 .mobile-menu .nav-logo {
     position: relative;
-    padding: 30px 25px;
+    padding: 3px 5px;
     text-align: left;
 }
 
@@ -2993,7 +2993,7 @@ label {
 }
 
 .live-video-active {
-    max-width: 700px;
+    max-width: 600px;
     flex: 0 0 550px;
     text-align: center;
     margin-top: -395px;
