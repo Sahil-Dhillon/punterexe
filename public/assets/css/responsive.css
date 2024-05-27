@@ -1316,6 +1316,14 @@
 }
 
 @media (max-width: 420px) {
+    .slider .slide-big {
+        /* height: 100px; */
+        /* width: 250px; */
+        /* margin: 8px; */
+        width: 400px;
+        /* Fixed width */
+        height: 250px;
+    }
     .liveVideo {
         width: 228px;
         height: 228px;

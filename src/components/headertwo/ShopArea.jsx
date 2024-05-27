@@ -76,28 +76,28 @@ function ShopArea() {
                     {/* <h3 class="section-subheading text-dark text-center fs-5 my-3">Some of our esteemed clients in the showcase.</h3> */}
                     {/* <hr class="m-3 w-75 m-auto"/> */}
                     <div class="col-md-3 col-6 my-3">
-                        <a href="https://t.me/Punterexe"><img class="img-fluid d-block mx-auto" src="assets/img/masters/8.jpg" alt="..." /></a>
+                        <a href="https://t.me/Punterexe"><img class="img-fluid d-block mx-auto glow-img" src="assets/img/masters/8.jpg" alt="..." /></a>
                     </div>
                     <div class="col-md-3 col-6 my-3">
-                        <a href="https://t.me/Punterexe"><img class="img-fluid d-block mx-auto" src="assets/img/masters/9.jpg" alt="..." /></a>
+                        <a href="https://t.me/Punterexe"><img class="img-fluid d-block mx-auto glow-img" src="assets/img/masters/9.jpg" alt="..." /></a>
                     </div>
                     <div class="col-md-3 col-6 my-3">
-                        <a href="https://t.me/Punterexe"><img class="img-fluid d-block mx-auto" src="assets/img/masters/3.jpg" alt="..." /></a>
+                        <a href="https://t.me/Punterexe"><img class="img-fluid d-block mx-auto glow-img" src="assets/img/masters/3.jpg" alt="..." /></a>
                     </div>
                     <div class="col-md-3 col-6 my-3">
-                        <a href="https://t.me/Punterexe"><img class="img-fluid d-block mx-auto" src="assets/img/masters/4.jpg" alt="..." /></a>
+                        <a href="https://t.me/Punterexe"><img class="img-fluid d-block mx-auto glow-img" src="assets/img/masters/4.jpg" alt="..." /></a>
                     </div>
                     <div class="col-md-3 col-6 my-3">
-                        <a href="https://t.me/Punterexe"><img class="img-fluid d-block mx-auto" src="assets/img/masters/5.jpg" alt="..." /></a>
+                        <a href="https://t.me/Punterexe"><img class="img-fluid d-block mx-auto glow-img" src="assets/img/masters/5.jpg" alt="..." /></a>
                     </div>
                     <div class="col-md-3 col-6 my-3">
-                        <a href="https://t.me/Punterexe"><img class="img-fluid d-block mx-auto" src="assets/img/masters/6.jpg" alt="..." /></a>
+                        <a href="https://t.me/Punterexe"><img class="img-fluid d-block mx-auto glow-img" src="assets/img/masters/6.jpg" alt="..." /></a>
                     </div>
                     <div class="col-md-3 col-6 my-3">
-                        <a href="https://t.me/Punterexe"><img class="img-fluid d-block mx-auto" src="assets/img/masters/2.jpg" alt="..." /></a>
+                        <a href="https://t.me/Punterexe"><img class="img-fluid d-block mx-auto glow-img" src="assets/img/masters/2.jpg" alt="..." /></a>
                     </div>
                     <div class="col-md-3 col-6 my-3">
-                        <a href="https://t.me/Punterexe"><img class="img-fluid d-block mx-auto" src="assets/img/masters/1.jpg" alt="..." /></a>
+                        <a href="https://t.me/Punterexe"><img class="img-fluid d-block mx-auto glow-img" src="assets/img/masters/1.jpg" alt="..." /></a>
                     </div>
                     <h3 class="section-subheading text-muted text-center fs-5">and many more...</h3>
                 </div>

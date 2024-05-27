@@ -462,7 +462,8 @@ label {
     z-index: 9;
 }
 
-.menu-area::after {
+
+/* .menu-area::after {
     content: "";
     position: absolute;
     left: 0;
@@ -471,9 +472,10 @@ label {
     height: 18px;
     background: #1f2029;
     clip-path: polygon(0 0, 100% 0%, 82% 100%, 0% 100%);
-}
+} */
 
-.menu-area::before {
+
+/* .menu-area::before {
     content: "";
     position: absolute;
     right: 0;
@@ -482,7 +484,7 @@ label {
     height: 18px;
     background: #1f2029;
     clip-path: polygon(0 0, 100% 0%, 100% 100%, 18% 100%);
-}
+} */
 
 .menu-area.sticky-menu::after {
     display: none;
@@ -572,6 +574,10 @@ label {
 
 .main-menu .navigation li.menu-item-has-children .dropdown-btn {
     display: none;
+}
+
+.main-header {
+    background-image: url(../img/bg/card1.png);
 }
 
 .header-action ul {
@@ -737,9 +743,18 @@ label {
     z-index: 1;
 }
 
+.glow-img {
+    box-shadow: 0 0 15px rgba(239, 225, 255, 0.8), /* Outer glow */
+    0 0 30px rgba(175, 118, 255, 0.6), /* Larger outer glow */
+    0 0 45px rgba(105, 12, 255, 0.4);
+    /* Even larger outer glow */
+    border-radius: 10px;
+    /* Optional: make corners rounded */
+}
+
 .header-icon a {
     width: 120px;
-    height: calc(100% + 18px);
+    height: calc(100%);
     background: #1a1b21;
     text-align: center;
     display: flex;
@@ -2773,14 +2788,14 @@ label {
 .slider .slide-track {
     animation: scroll 20s linear infinite;
     display: flex;
-    width: calc(250px * 28);
+    width: calc(250px * 35);
 }
 
 .slider .slide {
     /* height: 100px; */
     /* width: 250px; */
     /* margin: 8px; */
-    width: 300px;
+    /* width: 300px; */
     /* Fixed width */
     height: 200px;
     /* Fixed height */
@@ -2795,9 +2810,9 @@ label {
     /* height: 100px; */
     /* width: 250px; */
     /* margin: 8px; */
-    width: 600px;
+    width: 700px;
     /* Fixed width */
-    height: 500px;
+    height: 400px;
     /* Fixed height */
     overflow: hidden;
     display: flex;

@@ -185,31 +185,31 @@ if ($('.scroll-to-target').length) {
               <h4 className='my-0 py-0 d-flex'>
                         <div className='d-flex flex-column align-items-center header-slider'>
                         <img src='assets/img/slider/play.png' className=''/>
-                        <a href="https://t.me/Punterexe" className='mx-4 px-4'>Inplay</a>
+                        <a href="https://t.me/Punterexe" className=' px-4'>Inplay</a>
                         </div>
                         <div className='d-flex flex-column align-items-center header-slider'>
                         <img src='assets/img/slider/cricket.png' className=''/>
-                        <a href="https://t.me/Punterexe" className='mx-4 px-4'>Cricket</a>
+                        <a href="https://t.me/Punterexe" className=' px-4'>Cricket</a>
                         </div>
                         <div className='d-flex flex-column align-items-center header-slider'>
                         <img src='assets/img/slider/tennis.png' className=''/>
-                        <a href="https://t.me/Punterexe" className='mx-4 px-4'>Tennis</a>
+                        <a href="https://t.me/Punterexe" className='mx-2 px-4'>Tennis</a>
                         </div>
                         <div className='d-flex flex-column align-items-center header-slider'>
                         <img src='assets/img/slider/football.png' className=''/>
-                        <a href="https://t.me/Punterexe" className='mx-4 px-4'>Football</a>
+                        <a href="https://t.me/Punterexe" className=' px-4'>Football</a>
                         </div>
                         <div className='d-flex flex-column align-items-center header-slider'>
                         <img src='assets/img/slider/slot-machine.png' className=''/>
-                        <a href="https://t.me/Punterexe" className='mx-4 px-4'>Casino</a>
+                        <a href="https://t.me/Punterexe" className=' px-4'>Casino</a>
                         </div>
                         <div className='d-flex flex-column align-items-center header-slider'>
                         <img src='assets/img/slider/club-card.png' className=''/>
-                        <a href="https://t.me/Punterexe" className='mx-4 px-4'>Card Games</a>
+                        <a href="https://t.me/Punterexe" className=' px-4'>Card Games</a>
                         </div>
                         <div className='d-flex flex-column align-items-center header-slider'>
                         <img src='assets/img/slider/equestrian.png' className=''/>
-                        <a href="https://t.me/Punterexe" className='mx-4 px-4'>Horse Riding</a>
+                        <a href="https://t.me/Punterexe" className=' px-4'>Horse Riding</a>
                         </div>
                         
                         
