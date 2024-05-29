@@ -101,7 +101,7 @@ if ($('.scroll-to-target').length) {
                   <div className="mobile-nav-toggler"><i className="fas fa-bars" /></div>
                       <div className="navbar-wrap push-menu d-none d-lg-flex ">
                         <ul className="navigation">
-                          <li className=" menu-item-has-children"><a href="/#">Home</a></li>
+                          {/* <li className=" menu-item-has-children"><a href="/#">Home</a></li> */}
                           {/* <li className=" menu-item-has-children"><a href="https://t.me/Punterexe">Cricket</a></li>
                           <li className=" menu-item-has-children"><a href="https://t.me/Punterexe">Casino</a></li>
                           <li className=" menu-item-has-children"><a href="https://t.me/Punterexe">Tennis</a></li>
@@ -128,7 +128,7 @@ if ($('.scroll-to-target').length) {
                               <li><a href="/shop-details">Shop Details</a></li>
                             </ul>
                           </li> */}
-                          <li><Link  to="/contact">contact us</Link></li>
+                          {/* <li><Link  to="/contact">contact us</Link></li> */}
                         </ul>
                         {/* <div className=''># 9000600317 # 9000600318</div> */}
                       </div>
@@ -181,7 +181,7 @@ if ($('.scroll-to-target').length) {
               <a href="https://t.me/Punterexe" className="menu-tigger"><img src="assets/img/icon/hader_icon.png" alt="" /></a>
             </div>
             <div className='my-0 py-0'>
-              <marquee>
+              <marquee scrollamount="2">
               <h4 className='my-0 py-0 d-flex'>
                         <div className='d-flex flex-column align-items-center header-slider'>
                         <img src='assets/img/slider/play.png' className=''/>

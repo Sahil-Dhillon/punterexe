@@ -279,6 +279,7 @@ label {
 
 .logo_splash {
     width: 10px;
+    z-index: 2;
     /* height: 150px; */
 }
 
@@ -291,9 +292,22 @@ label {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    /* background-image: url('./background.jpg'); Adjust the path to your background */
-    /* background-size: cover; */
-    /* background-position: center; */
+    background-image: url('../img/logo/splash_bg.png');
+    background-size: cover;
+    background-position: center;
+}
+
+.splash-screen::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    /* Adjust the opacity as needed */
+    pointer-events: none;
+    /* Allows interactions with elements behind the overlay */
 }
 
 
@@ -361,7 +375,7 @@ label {
     /* line-height: 48px; */
     position: fixed;
     bottom: 10%;
-    left: 50px;
+    right: 50px;
     font-size: 56px;
     z-index: 1000000;
     color: #00d5ff;
@@ -373,7 +387,7 @@ label {
 .tele-icon-div {
     position: fixed;
     bottom: 10%;
-    left: 50px;
+    right: 50px;
     /* font-size: 56px; */
     z-index: 1000000;
     text-align: center;
@@ -382,7 +396,7 @@ label {
 .tele-icon-div .label {
     position: fixed;
     bottom: 4%;
-    left: 2%;
+    right: 30px;
     font-size: 56px;
     z-index: 1000000;
     color: #00d5ff;

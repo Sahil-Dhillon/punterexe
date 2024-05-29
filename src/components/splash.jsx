@@ -25,7 +25,7 @@ const SplashScreen = () => {
         src='assets/img/logo/logo_wbg.png'
         alt="Logo"
         className="logo_splash"
-        animate={{ width: 300}}
+        animate={{ width: 350}}
         transition={{ repeat: 0, duration: 0.8, ease: "linear" }}
       />
     </motion.div>

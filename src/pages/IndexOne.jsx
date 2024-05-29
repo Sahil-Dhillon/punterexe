@@ -7,7 +7,7 @@ import Banner from '../components/headerone/Banner'
 function IndexOne() {
   return (
     <>
-        <HeaderOne/>
+      <HeaderOne/>
             <main>
                 <Banner/>
                 <AreaBg/>
