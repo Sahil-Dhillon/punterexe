@@ -1316,7 +1316,7 @@
 }
 
 @media (max-width: 420px) {
-    .header-slider {
+    .header-slider img {
         width: 25px;
     }
     .slider .slide-big {
