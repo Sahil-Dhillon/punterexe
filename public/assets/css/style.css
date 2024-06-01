@@ -2800,7 +2800,7 @@ label {
 }
 
 .slider .slide-track {
-    animation: scroll 20s linear infinite;
+    animation: scroll 30s linear infinite;
     display: flex;
     width: calc(250px * 35);
 }

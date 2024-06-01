@@ -181,7 +181,7 @@ if ($('.scroll-to-target').length) {
               <a href="https://t.me/Punterexe" className="menu-tigger"><img src="assets/img/icon/hader_icon.png" alt="" /></a>
             </div>
             <div className='my-0 py-0'>
-              <marquee scrollamount="2">
+              <marquee scrollamount="4">
               <h4 className='my-0 py-0 d-flex'>
                         <div className='d-flex flex-column align-items-center header-slider'>
                         <img src='assets/img/slider/play.png' className=''/>

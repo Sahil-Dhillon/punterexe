@@ -10,7 +10,7 @@ function Banner() {
                 <h2 className="title layer animate__animated animate__fadeInUp animate__delay-.8s" data-depth="-0.2">Experience the Thrill of Winning</h2>
                 {/* <h5 className="small-title animate__animated animate__fadeInUp animate__delay-.4s">Your Premier Destination for Exciting Betting Action</h5> */}
                 <div className="banner-btn animate__animated animate__fadeInUp animate__delay-.12s">
-                  <a href="https://t.me/Punterexe" className="btn">Get Id<i className="fas fa-play-circle" /></a>
+                  <a href="https://t.me/Punterexe" className="btn">Get Demo Id<i className="fas fa-play-circle" /></a>
                   <a href="https://t.me/Punterexe" className="text-btn">Start Winning Now</a>
                 </div>
               </div>

@@ -88,7 +88,7 @@ function Live() {
                 <h2 className="title">Live Casino and Games.</h2>
               </div>
               {/* <p>Lpsum dolor sit amet, consectetur adipiscing elit, sed labore et dolore magna aliqua.</p> */}
-              <a href="/match-single">Get Id Now</a>
+              <a href="https://t.me/Punterexe">Get Id Now</a>
             </div>
           </div>
           <div className="col-xl-8">
@@ -110,7 +110,7 @@ function Live() {
                     </video>
                   </div>
                   <div className="coming-time" data-countdown="2022/5/29" />
-                  <a href="#" target="blank" className="btn">watch live <i className="fas fa-play-circle"></i> </a>
+                  <a href="https://t.me/Punterexe" target="blank" className="btn">Get Demo ID<i className="fas fa-play-circle"></i> </a>
                 </div>
                 <div className="live-video-item">
                   <div className="video">
@@ -119,7 +119,7 @@ function Live() {
                     </video>
                   </div>
                   <div className="coming-time" data-countdown="2022/5/29" />
-                  <a href="#" target="blank" className="btn">watch live <i className="fas fa-play-circle"></i> </a>
+                  <a href="https://t.me/Punterexe" target="blank" className="btn">Get Demo Id<i className="fas fa-play-circle"></i> </a>
                 </div>
                 {/* <div className="live-video-item">
                   <div className="video">
