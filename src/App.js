@@ -34,21 +34,22 @@ function App() {
   // },[])
   return (
     <div className="App">
-    {loading ? <SplashScreen/> : 
-      <Routes>
-        <Route path="/" element={<IndexOne/>}/>
-        {/* <Route path="index-2" element={<IndexTwo/>}/> */}
-        {/* <Route path="index-3" element={<IndexThree/>}/> */}
-        {/* <Route path="about-us" element={<AboutUs/>}/> */}
-        {/* <Route path="tournaments" element={<Tournament/>}/> */}
-        <Route path="contact" element={<IndexOne/>}/>
-        {/* <Route path="blog" element={<Blog/>}/> */}
-        {/* <Route path="blog-details" element={<BlogDetails/>}/> */}
-        {/* <Route path="match-single" element={<MatchSingle/>}/> */}
-        {/* <Route path="our-squad" element={<Squad/>}/> */}
-        {/* <Route path="shop" element={<Shop/>}/> */}
-        {/* <Route path="shop-details" element={<ShopDetails/>}/> */}
-      </Routes>
+    {loading ? <SplashScreen/> : <IndexOne/>
+      // <Routes>
+      //   <Route path="/" element={<IndexOne/>}/>
+      //   {/* <Route path="index-2" element={<IndexTwo/>}/> */}
+      //   {/* <Route path="index-3" element={<IndexThree/>}/> */}
+      //   {/* <Route path="about-us" element={<AboutUs/>}/> */}
+      //   {/* <Route path="tournaments" element={<Tournament/>}/> */}
+      //   <Route path="/contact" element={<IndexOne/>}/>
+      //   <Route path="/contact/" element={<IndexOne/>}/>
+      //   {/* <Route path="blog" element={<Blog/>}/> */}
+      //   {/* <Route path="blog-details" element={<BlogDetails/>}/> */}
+      //   {/* <Route path="match-single" element={<MatchSingle/>}/> */}
+      //   {/* <Route path="our-squad" element={<Squad/>}/> */}
+      //   {/* <Route path="shop" element={<Shop/>}/> */}
+      //   {/* <Route path="shop-details" element={<ShopDetails/>}/> */}
+      // </Routes>
     }
     </div>
   );

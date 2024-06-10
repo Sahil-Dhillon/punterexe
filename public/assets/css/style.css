@@ -591,7 +591,8 @@ label {
 }
 
 .main-header {
-    background-image: url(../img/bg/header-bg.jpg);
+    /* background-image: url(../img/bg/header-bg.jpg); */
+    background-image: url(../img/bg/hbg3.jpg);
     /* background-position: center; */
     background-size: cover;
     background-repeat: no-repeat;
