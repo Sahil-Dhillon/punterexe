@@ -110,7 +110,7 @@ function Live() {
                     </video>
                   </div>
                   <div className="coming-time" data-countdown="2022/5/29" />
-                  <a href="https://t.me/Punterexe" target="blank" className="btn">Get Demo ID<i className="fas fa-play-circle"></i> </a>
+                  <a href="https://t.me/Punterexe" target="blank" className="btn">Play Live<i className="fas fa-play-circle"></i> </a>
                 </div>
                 <div className="live-video-item">
                   <div className="video">
@@ -119,7 +119,7 @@ function Live() {
                     </video>
                   </div>
                   <div className="coming-time" data-countdown="2022/5/29" />
-                  <a href="https://t.me/Punterexe" target="blank" className="btn">Get Demo Id<i className="fas fa-play-circle"></i> </a>
+                  <a href="https://t.me/Punterexe" target="blank" className="btn">Play Live<i className="fas fa-play-circle"></i> </a>
                 </div>
                 {/* <div className="live-video-item">
                   <div className="video">
