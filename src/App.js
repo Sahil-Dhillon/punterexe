@@ -41,7 +41,7 @@ function App() {
         {/* <Route path="index-3" element={<IndexThree/>}/> */}
         {/* <Route path="about-us" element={<AboutUs/>}/> */}
         {/* <Route path="tournaments" element={<Tournament/>}/> */}
-        <Route exact path="contact" element={<IndexOne/>}/>
+        <Route path="contact" element={<IndexOne/>}/>
         {/* <Route path="blog" element={<Blog/>}/> */}
         {/* <Route path="blog-details" element={<BlogDetails/>}/> */}
         {/* <Route path="match-single" element={<MatchSingle/>}/> */}
